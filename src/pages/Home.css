@@ -1,0 +1,35 @@
+.img-container
+{
+    margin:0;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    
+}
+
+.container
+{
+    /* height: 100px; */
+    width: 100%;
+    /* background-color: blue; */
+}
+.col-md-6{
+    margin-top: 40px;
+   
+}
+.viewbooks{
+    text-decoration: none;
+    color:black;
+    border:1px solid black;
+    padding:5px;
+    border-radius: 8px;
+    transition: 0.3s ease;
+}
+.viewbooks:hover{
+   
+    padding:4px;
+   
+}
+
+    
+      
